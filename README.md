@@ -9,6 +9,8 @@
  5. [深究JavaScript作用域（链）知识点和闭包](https://juejin.im/post/5e93e4eaf265da47fc0ce177)
 ### 二、浏览器相关
  1. [从输入url到页面完成加载发生了什么（完整版）](https://juejin.im/post/5e92f11b6fb9a03c46493880)
+ ### 三、读书笔记
+ **敬请期待**
 
 
 
