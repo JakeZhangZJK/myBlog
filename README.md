@@ -10,7 +10,14 @@
 ### 二、浏览器相关
  1. [从输入url到页面完成加载发生了什么（完整版）](https://juejin.im/post/5e92f11b6fb9a03c46493880)
  ### 三、读书笔记
- **敬请期待**
+ **敬请期待。。。**
+ ### 三、项目实战
+ **敬请期待。。。**
+ ### 三、其他
+
+ 1.[js数组去重大全，推荐收藏](https://juejin.im/editor/posts/5def09556fb9a016510d9b73)
+ 2.[【Git】405- 分享：大牛总结的 Git 使用技巧](https://editor.csdn.net/md/?articleId=103063960)
+ 3.[js提升幸福指数小技巧之reduce()和reduceRight()方法](https://editor.csdn.net/md/?articleId=103063960)
 
 
 
