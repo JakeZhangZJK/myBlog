@@ -12,7 +12,7 @@
  ### 三、读书笔记
  **敬请期待。。。**
  ### 四、项目实战
- **敬请期待。。。**
+ 1. [Vue全家桶+SSR+Koa2+MongoDB全栈开发美团网](https://juejin.im/post/5ec4f609518825433e1f9c5f)
  ### 五、其他
 
  1.[js数组去重大全，推荐收藏](https://juejin.im/editor/posts/5def09556fb9a016510d9b73)·
