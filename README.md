@@ -24,6 +24,8 @@
  2.[【Git】405- 分享：大牛总结的 Git 使用技巧](https://editor.csdn.net/md/?articleId=103063960)
  
  3.[js提升幸福指数小技巧之reduce()和reduceRight()方法](https://editor.csdn.net/md/?articleId=103063960)
+ 
+ 4.[「牛客网」45道JS能力测评经典题总结](https://juejin.im/post/5f032fe3f265da22c75734b8)
 
 
 
