@@ -14,6 +14,7 @@
  ### 四、项目实战
  1. [Vue全家桶+SSR+Koa2+MongoDB全栈开发美团网](https://juejin.im/post/5ec4f609518825433e1f9c5f)
  1. [Vue+ Node+mongodb全栈开发王者荣耀手机端官网/后台管理「更新」](https://juejin.im/post/5ecf38b4e51d45787e43e819)
+ 1. [「敲黑板」Uniapp 实现左右联动菜单](https://juejin.im/post/5ef9afd6f265da22d017de0f)
 
  ### 五、面试题集
  [由浅入深，66条JavaScript面试知识点](https://juejin.im/post/5ef8377f6fb9a07e693a6061)
@@ -21,11 +22,11 @@
 
  1.[js数组去重大全，推荐收藏](https://juejin.im/editor/posts/5def09556fb9a016510d9b73)·
 
- 2.[【Git】405- 分享：大牛总结的 Git 使用技巧](https://editor.csdn.net/md/?articleId=103063960)
+ 1.[【Git】405- 分享：大牛总结的 Git 使用技巧](https://editor.csdn.net/md/?articleId=103063960)
  
- 3.[js提升幸福指数小技巧之reduce()和reduceRight()方法](https://editor.csdn.net/md/?articleId=103063960)
+ 1.[js提升幸福指数小技巧之reduce()和reduceRight()方法](https://editor.csdn.net/md/?articleId=103063960)
  
- 4.[「牛客网」45道JS能力测评经典题总结](https://juejin.im/post/5f032fe3f265da22c75734b8)
+ 1.[「牛客网」45道JS能力测评经典题总结](https://juejin.im/post/5f032fe3f265da22c75734b8)
 
 
 
